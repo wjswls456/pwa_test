@@ -1,0 +1,16 @@
+{
+    "name": "My Sample PWA",
+    "short_name": "SamplePWA",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "icons": [
+      {
+        "src": "/icons/pngwing.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
